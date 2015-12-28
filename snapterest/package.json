@@ -1,0 +1,25 @@
+{
+  "name": "snapterest",
+  "version": "1.0.0",
+  "description": "From the book React.js Essentials",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BollingerInternational/reactessentials.git"
+  },
+  "author": "R. August Bollinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BollingerInternational/reactessentials/issues"
+  },
+  "homepage": "https://github.com/BollingerInternational/reactessentials#readme",
+  "devDependencies": {
+    "babelify": "^7.2.0",
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
